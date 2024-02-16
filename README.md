@@ -93,17 +93,8 @@
 </div>
 
 </td></tr></table>  
-  
-  <br/>
-   
-  ![Snake animation](https://github.com/yficklis/yficklis/blob/output/github-contribution-grid-snake.svg)
-
-<br/>  
-
-
 
 ## what i'm listening 
-  
 
 <br/>  
 
