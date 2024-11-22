@@ -94,6 +94,13 @@
 
 </td></tr></table>  
 
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yficklis&&style=flat-square" align="center" />
+</div>  
+  
+<br/> 
+
 ----
 ## Connect with me  
 <div align="center">
