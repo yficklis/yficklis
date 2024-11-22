@@ -94,21 +94,6 @@
 
 </td></tr></table>  
 
-## what i'm listening 
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yficklis&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yficklis&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 ----
 ## Connect with me  
 <div align="center">
